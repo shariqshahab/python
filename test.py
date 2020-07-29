@@ -1,1 +1,3 @@
-print("shariqshahab")
+print("shariqshahab");
+
+if("shariq") print("abc");
